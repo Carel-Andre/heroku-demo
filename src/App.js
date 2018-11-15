@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
 		    
-automatic deploy from github
+cal 1
           </p>
           <a
             className="App-link"
