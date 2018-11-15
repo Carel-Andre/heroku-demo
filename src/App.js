@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
 		    
-cal 1
+cal 2
           </p>
           <a
             className="App-link"
